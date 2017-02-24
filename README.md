@@ -19,5 +19,5 @@
 1. jquery.min.js
 2. bootstrap.min.js
 
-**Live Demo** : url("http://bootsnipp.com/snippets/Ol55Z")
+**Live Demo** : [Vertical Animated Carousel](http://bootsnipp.com/snippets/Ol55Z)
 
