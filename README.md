@@ -20,4 +20,3 @@
 2. bootstrap.min.js
 
 **Live Demo** : [Vertical Animated Carousel](http://bootsnipp.com/snippets/Ol55Z)
-
