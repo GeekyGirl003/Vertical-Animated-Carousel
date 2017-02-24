@@ -8,11 +8,13 @@
 - **Example : $('.item1 img').animateCss('slideInDown');**
 
 - This carousel slides on mouse scroll also and Swipe also.
-## Not added any external js for Mouse Scroll or Swipe and Animation.
+
+### Not added any external js for Mouse Scroll or Swipe and Animation.
 
 ### External Css Used:
 1. Boostrap.min.css
 2. Animate.css
+
 ### External Js Used :
 1. jquery.min.js
 2. bootstrap.min.js
